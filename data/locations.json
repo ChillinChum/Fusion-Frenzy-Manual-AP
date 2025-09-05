@@ -1,0 +1,355 @@
+[
+  {
+    "name": "Starting Game 1",
+    "category": [
+      "Starting Games"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "Games A-C"
+    ]
+  },
+  {
+    "name": "Starting Game 2",
+    "category": [
+      "Starting Games"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "Games E-L"
+    ]
+  },
+  {
+    "name": "Starting Game 3",
+    "category": [
+      "Starting Games"
+    ],
+    "requires": [],
+    "place_item_category": [
+      "Games M-P"
+    ]
+  },
+  {
+    "name": "Air Raid",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Armored Antics",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Blast Man Standing",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Blast Off",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bombstruck",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Bumper Race",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Burning Fuse",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Centrifugal Farce",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Collector",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Cooperation",
+    "category": [
+      "Games A-C"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Energy Ball",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Erodeo",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Exterminator",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Falling Star",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Hockey",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jetboat Sprint",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Jetstream",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Knockout",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Laser Snare",
+    "category": [
+      "Games E-L"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Misguided Missiles",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Money Pool",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Mystery Beat",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Odd One Out",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Paint Panic",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pinball",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pod Hog",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Prop Rotation",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Pyrotechnician",
+    "category": [
+      "Games M-P"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rhythm",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Roller Ruckus",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rollmentum",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rubble Alliance",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Rude Food",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Scratch Match",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Space Tails",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Special Delivery",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Sumo",
+    "category": [
+      "Games R-S"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tailblazer",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tank Tankle",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tank Tracks",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Tube Tremors",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Twisted System",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Victim",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Volt Vault",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Water Gate Scramble",
+    "category": [
+      "Games T-W"
+    ],
+    "requires": []
+  },
+  {
+    "name": "Goal",
+    "victory": true,
+    "category": [
+      "Goal"
+    ],
+    "requires": []
+  }
+]
